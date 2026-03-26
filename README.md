@@ -19,7 +19,7 @@ Built as a learning project to understand REST API calls, JSON parsing, and Andr
 
 | List screen | Detail screen |
 |---|---|
-| ![List](screenshots/list.png) | ![Detail](screenshots/detail.png) |
+| ![List](app/screenshots/list.png) | ![Detail](app/screenshots/detail.png) |
 
 ---
 
